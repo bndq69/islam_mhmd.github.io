@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bndq69.github.io/islam_mhmd.github.io/sitemap.xml
